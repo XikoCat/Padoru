@@ -1,5 +1,6 @@
 # Padoru
-A small Processing project based on the Padoru and DVD memes
+A small Processing project based on the Padoru and DVD memes.
+
 Compile and run using Processing 3.5.3
 
 This Processing sketch was a 1 afternoon project and "challenge" to myself. I had nothing to do so I decided to make this.
